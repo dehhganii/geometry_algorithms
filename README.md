@@ -154,7 +154,7 @@ polygon_points.txt
 (12, 10)
 (30, 40)
 
-![alt text](https://github.com/dehhganii/geometry_algorithms/blob/main/polygon.bmpg)
+![alt text](https://github.com/dehhganii/geometry_algorithms/blob/main/polygon.bmp)
 
 | closest_points |
 | -------------- |
