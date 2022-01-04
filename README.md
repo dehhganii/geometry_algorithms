@@ -1,7 +1,5 @@
 # CSE 701 Third Project #
 
-## Introduction ##
-
 This repository is for the third project of CSE 701 course in Fall 2021.
 
 This project is applying three different geometric algorithms with considering time complexity of algorithms.
