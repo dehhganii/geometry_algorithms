@@ -13,7 +13,7 @@
 #include "GeometryAlgorithms.hpp"
 #include "Utility.hpp"
 #include "ConvexHull.hpp"
-#include "graphic.hpp"
+#include "Graphic.hpp"
 #include "ClosestPair.hpp"
 #include "Polygon.hpp"
 #include <iostream>
