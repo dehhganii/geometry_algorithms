@@ -143,6 +143,8 @@ polygon_points.txt
 (30, 10)
 (0, 0)
 
+![alt text](https://github.com/dehhganii/geometry_algorithms/blob/main/convex_hull.bmp)
+
 | Polygon_points |
 | -------------- |
 (20, 30)
@@ -152,6 +154,8 @@ polygon_points.txt
 (12, 10)
 (30, 40)
 
+![alt text](https://github.com/dehhganii/geometry_algorithms/blob/main/polygon.bmpg)
+
 | closest_points |
 | -------------- |
 (5, 5)
@@ -159,6 +163,8 @@ polygon_points.txt
 (15, 15)
 (5, 15)
 (12, 10)
+
+![alt text](https://github.com/dehhganii/geometry_algorithms/blob/main/closest_points.bmp)
 
 The points for the closest pair the output is the distance
 >9.43398
